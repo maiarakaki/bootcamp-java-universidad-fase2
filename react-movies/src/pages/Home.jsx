@@ -1,5 +1,7 @@
 import { Box, CssBaseline, ThemeProvider, createTheme } from "@mui/material"
 import { Buscador } from "../components/buscador/Buscador"
+import Tarjeta from "../components/tarjeta/Tarjeta";
+import CardWrapper from "../components/tarjetas/CardWrapper";
 
 function Home (){
     const darkTheme = createTheme({
@@ -14,6 +16,7 @@ function Home (){
             <CssBaseline />
             <Box sx={{width:"80vw", margin:'0 auto'}}>
                 <Buscador/>
+                <CardWrapper/>
             </Box>
             
         </ThemeProvider>

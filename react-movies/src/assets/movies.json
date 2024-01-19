@@ -1,0 +1,413 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "id": 609681,
+        "title": "The Marvels",
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "popularity": 1115.524,
+        "release_date": "2023-11-08",
+        "video": false,
+        "vote_average": 6.352,
+        "vote_count": 968
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xI1qzf4q93PKqu9QpoW5hwW5QuG.jpg",
+        "id": 956262,
+        "title": "The Kitchen",
+        "original_language": "en",
+        "original_title": "The Kitchen",
+        "overview": "In a dystopian London, the gap between rich and poor has been stretched to its limits. All forms of social housing have been eradicated and only The Kitchen remains. A community that refuses to move out of the place they call home.",
+        "poster_path": "/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            53,
+            18,
+            12
+        ],
+        "popularity": 14.409,
+        "release_date": "2023-10-15",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/adNMDatnEnIEo4LUo1KyhouP6VA.jpg",
+        "id": 1212073,
+        "title": "Sixty Minutes",
+        "original_language": "de",
+        "original_title": "60 Minuten",
+        "overview": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+        "poster_path": "/jojfbnIHGsRpodIood3OQoqA45Y.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "popularity": 35.211,
+        "release_date": "2024-01-19",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+        "id": 955916,
+        "title": "Lift",
+        "original_language": "en",
+        "original_title": "Lift",
+        "overview": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+        "poster_path": "/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "popularity": 1559.125,
+        "release_date": "2024-01-10",
+        "video": false,
+        "vote_average": 6.188,
+        "vote_count": 276
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uacWG9bF6xMBKW0qNBTMLC8GBif.jpg",
+        "id": 1221388,
+        "title": "From the Ashes",
+        "original_language": "ar",
+        "original_title": "جرس انذار",
+        "overview": "At a strict girls school, a mysterious fire blazes out of control, Now everyone's questioning whether it was an accident or arson.",
+        "poster_path": "/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "popularity": 34.72,
+        "release_date": "2024-01-18",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+        "id": 753342,
+        "title": "Napoleon",
+        "original_language": "en",
+        "original_title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            36,
+            10752,
+            18
+        ],
+        "popularity": 1811.36,
+        "release_date": "2023-11-22",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1276
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg",
+        "id": 848187,
+        "title": "Role Play",
+        "original_language": "en",
+        "original_title": "Role Play",
+        "overview": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+        "poster_path": "/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            35,
+            10749
+        ],
+        "popularity": 281.245,
+        "release_date": "2023-12-14",
+        "video": false,
+        "vote_average": 5.913,
+        "vote_count": 126
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNgn9LP0iMuLSnWqolivcY3Y7F6.jpg",
+        "id": 572802,
+        "title": "Aquaman and the Lost Kingdom",
+        "original_language": "en",
+        "original_title": "Aquaman and the Lost Kingdom",
+        "overview": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.",
+        "poster_path": "/qJiWKzdRScI5OcRQqOu3qdMZKXY.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "popularity": 924.781,
+        "release_date": "2023-12-20",
+        "video": false,
+        "vote_average": 6.53,
+        "vote_count": 542
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iP3fL9jwcYeGMyfZKAT6KqW1qc.jpg",
+        "id": 558915,
+        "title": "The Color Purple",
+        "original_language": "en",
+        "original_title": "The Color Purple",
+        "overview": "A decades-spanning tale of love and resilience and of one woman's journey to independence. Celie faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood.",
+        "poster_path": "/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18
+        ],
+        "popularity": 153.786,
+        "release_date": "2023-12-25",
+        "video": false,
+        "vote_average": 6.602,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mHpoCdCSebNDIIHbqaAxbD57o7H.jpg",
+        "id": 823452,
+        "title": "The Boys in the Boat",
+        "original_language": "en",
+        "original_title": "The Boys in the Boat",
+        "overview": "The triumphant underdog story of the University of Washington men's rowing team, who stunned the world by winning gold at the 1936 Berlin Olympics.",
+        "poster_path": "/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "popularity": 54.548,
+        "release_date": "2023-12-25",
+        "video": false,
+        "vote_average": 8.197,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+        "id": 866398,
+        "title": "The Beekeeper",
+        "original_language": "en",
+        "original_title": "The Beekeeper",
+        "overview": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+        "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "popularity": 815.152,
+        "release_date": "2024-01-10",
+        "video": false,
+        "vote_average": 7.601,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/riuTxOEKQ9lfvSan2vwaOPipwtr.jpg",
+        "id": 621587,
+        "title": "Next Goal Wins",
+        "original_language": "en",
+        "original_title": "Next Goal Wins",
+        "overview": "Dutch coach Thomas Rongen attempts the nearly impossible task of turning the American Samoa soccer team from perennial losers into winners.",
+        "poster_path": "/zWmKqcox4AgM3deEEVCeYqEOOJ2.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "popularity": 327.772,
+        "release_date": "2023-11-16",
+        "video": false,
+        "vote_average": 6.511,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "popularity": 469.788,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 8.118,
+        "vote_count": 6197
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+        "id": 906126,
+        "title": "Society of the Snow",
+        "original_language": "es",
+        "original_title": "La sociedad de la nieve",
+        "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+        "poster_path": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "popularity": 1145.414,
+        "release_date": "2023-12-13",
+        "video": false,
+        "vote_average": 8.057,
+        "vote_count": 1008
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ejTG17sqAEEyIqZVpYhyw0PGUdT.jpg",
+        "id": 792307,
+        "title": "Poor Things",
+        "original_language": "en",
+        "original_title": "Poor Things",
+        "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            10749,
+            35
+        ],
+        "popularity": 194.76,
+        "release_date": "2023-11-21",
+        "video": false,
+        "vote_average": 8.152,
+        "vote_count": 148
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9yOe8oOyLw5iTiOUhm0F8I17aw9.jpg",
+        "id": 845387,
+        "title": "maboroshi",
+        "original_language": "ja",
+        "original_title": "アリスとテレスのまぼろし工場",
+        "overview": "A factory explosion plunges a small town into a timeless freeze, leaving teenage Masamune and his pals to grapple with a quickly collapsing reality.",
+        "poster_path": "/7kzoPEasqFZGPGHj1imsLtTM20k.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            16,
+            18,
+            10749,
+            14
+        ],
+        "popularity": 52.802,
+        "release_date": "2023-09-15",
+        "video": false,
+        "vote_average": 8.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uNNINTLRT75QHkQp5R7adt366oT.jpg",
+        "id": 666035,
+        "title": "Wanted Man",
+        "original_language": "en",
+        "original_title": "Wanted Man",
+        "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+        "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "popularity": 50.903,
+        "release_date": "2024-01-19",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+        "id": 346698,
+        "title": "Barbie",
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            35,
+            12,
+            14
+        ],
+        "popularity": 354.185,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 7.148,
+        "vote_count": 6960
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g1LGrb6YDurhdMaXgUUmF1HAYIy.jpg",
+        "id": 1059126,
+        "title": "Bring Him to Me",
+        "original_language": "en",
+        "original_title": "Bring Him to Me",
+        "overview": "Under orders from a ruthless crime boss, a getaway driver must battle his conscience and drive an unsuspecting crew member to an ambush execution. There is a long drive ahead.",
+        "poster_path": "/kmJJRpa1F67hJqNs3B7NA1QAJpK.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "popularity": 9.982,
+        "release_date": "2023-11-02",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gN79aDbZdaSJkFS1iVA17HplF2X.jpg",
+        "id": 968051,
+        "title": "The Nun II",
+        "original_language": "en",
+        "original_title": "The Nun II",
+        "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+        "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "popularity": 146.996,
+        "release_date": "2023-09-06",
+        "video": false,
+        "vote_average": 6.839,
+        "vote_count": 1638
+    }
+]
