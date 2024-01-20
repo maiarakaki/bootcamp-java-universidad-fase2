@@ -6,3 +6,7 @@
 .innerBox{
     padding:30px;
 }
+
+.infoLabel{
+    font-weight: bold;
+}

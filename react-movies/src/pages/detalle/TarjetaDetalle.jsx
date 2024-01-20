@@ -36,19 +36,20 @@ export const TarjetaDetalle = () => {
             <div className='row'>
               <h1>{movie.title}</h1>
               <div className='col-12'>
-                Fecha de estreno: {movie['release_date']}
+                <span className={style.infoLabel}>Fecha de estreno:</span> {movie['release_date']}
               </div>
               <div className='col-12'>
-                Titulo original: {movie["original_title"]}
+              <span className={style.infoLabel}>Titulo original:</span> {movie["original_title"]}
               </div>
               <div className='col-12'>
                 {generos.map(x=> <Chip key={x.id} label={x.name}/>)}
               </div>
               <div className='col-12'>
-                {movie.overview}
+              <span className={style.infoLabel}>Sinopsis:</span>
+                <p>{movie.overview}</p>
               </div>
               <div className='col-12'>
-                Calificacion
+              <span className={style.infoLabel}>Calificacion:</span>
                 <div className='row align-items-center'>
                   <div className='col-10'>
                     <LinearProgress variant="determinate" value={movie['vote_average']*10}/>
