@@ -5,6 +5,7 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import style from './Tarjeta.module.css';
+import { Box } from '@mui/material';
         
 
 const Tarjeta = (props) => {
@@ -32,16 +33,19 @@ const Tarjeta = (props) => {
   return (
     <div className='col-12 col-md-4'>
         <Card className={style.card}>
-        <CardMedia className={style.cardImg}
-            image={`https://www.themoviedb.org/t/p/w200${props.img}`}
-        />
-        <CardContent>
-          <h2>{props.titulo}</h2>
-          <p>{plot}</p>
-        </CardContent>
-        <CardActions>
-            <Button className={style.small}>Ver más</Button>
-        </CardActions>
+          <div className='container d-flex justify-content-center'>
+              <CardMedia className={style.cardImg}
+                  image={`https://www.themoviedb.org/t/p/w200${props.img}`}
+              />
+
+          </div>
+          <CardContent>
+            <h2>{props.titulo}</h2>
+            <p>{plot}</p>
+          </CardContent>
+          <CardActions>
+              <Button className={style.small}>Ver más</Button>
+          </CardActions>
         </Card>
     </div>
   )

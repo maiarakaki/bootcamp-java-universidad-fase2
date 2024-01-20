@@ -8,7 +8,7 @@ const CardWrapper = () => {
     console.log(movies);
 
   return (
-        <div className='row'>
+        <div className='row gy-3'>
             {movies.map(x=>
                 <Tarjeta
                     titulo={x.title} 
