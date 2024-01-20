@@ -5,11 +5,13 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import style from './Tarjeta.module.css';
-import { Box } from '@mui/material';
+import { Link, useNavigate } from 'react-router-dom';
         
 
 const Tarjeta = (props) => {
   const [plot, setPlot] = useState('');
+
+  const navigator = useNavigate();
 
   useEffect(()=>{
     if(countChars(props.sinopsis) > 150) {
@@ -44,7 +46,9 @@ const Tarjeta = (props) => {
             <p>{plot}</p>
           </CardContent>
           <CardActions>
+            <Link to={`/movies/${props.id}`}>
               <Button className={style.small}>Ver más</Button>
+            </Link>
           </CardActions>
         </Card>
     </div>
