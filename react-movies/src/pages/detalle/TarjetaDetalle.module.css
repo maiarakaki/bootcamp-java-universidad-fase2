@@ -1,0 +1,12 @@
+.detailsContainer{
+    margin-top: 2rem;
+    padding:10px;
+}
+
+.innerBox{
+    padding:30px;
+}
+
+.infoLabel{
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.buscador{
+    display: flex;
+    align-items: end;
+    margin-bottom: 2rem;
+}
+
+.searchIcon{
+    font-size:'2rem';
+}
