@@ -19,6 +19,7 @@ const AppRouter =()=>{
 
             <Routes>
                 <Route path='/'element={<Home/>}/>
+                <Route path='/bootcamp-java-universidad-fase2/'element={<Home/>}/>
                 <Route path='/movies/:id'element={<TarjetaDetalle/>}/>
             </Routes>
 
