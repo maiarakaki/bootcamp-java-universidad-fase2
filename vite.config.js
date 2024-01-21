@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/maiarakaki/bootcamp-java-universidad-fase2/'
+  base: 'https://maiarakaki.github.io/bootcamp-java-universidad-fase2/',
 })
